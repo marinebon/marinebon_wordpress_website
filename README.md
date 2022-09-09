@@ -7,3 +7,8 @@ The menu items are hard coded in file and WP admin section will not work for the
 
 Here’s where you edit the menu manually (need to be logged in to admin): https://marinebon.org/wp-admin/theme-editor.php?file=theme-parts%2Fheader%2Fheader-menu.php&theme=labtechco
 
+## Backups
+* use “All in one WP migration” plugin and download a backup file.
+* Login to the admin, and on the left side, look for All in one WP migration. 
+* click “export” and select to save as a file.
+* TODO: where do we keep these files?
