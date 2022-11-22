@@ -13,3 +13,11 @@ Here’s where you edit the menu manually (need to be logged in to admin): https
 * click “export” and select to save as a file.
 * TODO: where do we keep these files?
 * TODO: instructions for restoring
+
+## Server spin up with Docker
+
+Using `docker-compose.yml` per [wordpress - Official Image | Docker Hub](https://hub.docker.com/_/wordpress) with software versions [noted](https://github.com/marinebon/marinebon_wordpress_website):
+
+```bash
+docker compose up
+```
