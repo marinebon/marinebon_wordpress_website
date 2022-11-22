@@ -12,3 +12,4 @@ Here’s where you edit the menu manually (need to be logged in to admin): https
 * Login to the admin, and on the left side, look for All in one WP migration. 
 * click “export” and select to save as a file.
 * TODO: where do we keep these files?
+* TODO: instructions for restoring
