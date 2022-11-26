@@ -16,8 +16,12 @@ Here’s where you edit the menu manually (need to be logged in to admin): https
 
 ## Server spin up with Docker
 
-Using `docker-compose.yml` per [wordpress - Official Image | Docker Hub](https://hub.docker.com/_/wordpress) with software versions [noted](https://github.com/marinebon/marinebon_wordpress_website):
+Using `docker-compose.yml` per [wordpress - Official Image | Docker Hub](https://hub.docker.com/_/wordpress) with software versions [noted](https://docs.google.com/document/d/1nKsdq4Tvj06AnTzHWQAtd-z9UV8F37X3V4NyQmaWGA4/edit#bookmark=id.79kd52ao93gd):
 
 ```bash
 docker compose up
 ```
+
+### Restore from backups
+
+* Using files uploaded by @7yl4r: [2022-11-22 | Powered by Box](https://app.box.com/folder/183228451933)
