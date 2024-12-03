@@ -13,7 +13,7 @@ Here’s where you edit the menu manually (need to be logged in to admin): https
 * use “All in one WP migration” plugin and download a backup file.
 * Login to the admin, and on the left side, look for All in one WP migration. 
 * click “export” and select to save as a file.
-* TODO: where do we keep these files?
+* Backup `.wpress` files stored in USF box.com folder ["marinebon_wordpress_backups"](https://usf.box.com/s/90c96yi5ps1szniflmxyt3ukqv831l98).
 * TODO: instructions for restoring
 
 ## Server spin up with Docker
